@@ -4,4 +4,4 @@ Bookly is a miniproject which is used to store and create number of book thumbna
 
 **Host Link :**
 
-https://mjzsptdyjkh6yrmtklkbjy.streamlit.app/
+https://nmdharan28.github.io/BooklyProject/
